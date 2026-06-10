@@ -4,9 +4,9 @@ Machine learning pipeline to predict the inhibitory activity of small molecules 
 
 ## Background
 
-The overexpression of BCL-2 family proteins is a key mechanism by which cancer cells evade apoptosis, particularly in leukemia. While inhibitors such as venetoclax and navitoclax have been developed, they present important limitations: venetoclax can induce resistance through MCL-1 compensatory overexpression, and navitoclax causes thrombocytopenia due to BCL-xL inhibition.
+The overexpression of BCL-2 family proteins is a key mechanism by which cancer cells evade apoptosis, particularly in leukemia. While inhibitors such as venetoclax and navitoclax have been developed, they present important limitations: venetoclax can induce resistance through MCL-1 compensatory overexpression, and navitoclax causes thrombocytopenia due to BCL-xL inhibition. In this context, there is particular interest in identifying candidates capable of selectively inhibiting BCL-2 and MCL-1 without activity against BCL-xL, which would enhance apoptosis in leukemic cells without compromising platelet survival — improving the safety profile and clinical viability of these therapies. The development of such molecules would not only simplify current treatments, but could also offer more effective, durable and accessible solutions for patients with cross-resistance or suboptimal responses.
 
-This project builds a computational pipeline to identify small molecules with selective inhibitory activity against each of the three main targets, using molecular descriptors and fingerprints as features for seven different ML classifiers.
+This project builds a computational pipeline to identify small molecules with selective inhibitory activity against each of the three main targets, using molecular descriptors and fingerprints as features for eight different ML classifiers.
 
 ## Pipeline overview
 
