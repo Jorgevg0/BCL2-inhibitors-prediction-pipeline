@@ -163,5 +163,11 @@ Key observations:
 
 ## Data source
 
-Bioactivity data was retrieved from [ChEMBL](https://www.ebi.ac.uk/chembl/) (BCL-2: CHEMBL4523, MCL-1: CHEMBL4171, BCL-xL: CHEMBL4822).
+Bioactivity data was retrieved from [ChEMBL](https://www.ebi.ac.uk/chembl/):
+
+- BCL-2: [CHEMBL4860](https://www.ebi.ac.uk/chembl/explore/target/CHEMBL4860)
+- MCL-1: [CHEMBL4361](https://www.ebi.ac.uk/chembl/explore/target/CHEMBL4361)
+- BCL-xL: [CHEMBL4625](https://www.ebi.ac.uk/chembl/explore/target/CHEMBL4625)
+
+Accessed: March 20, 2025.
 
