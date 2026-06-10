@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"metric=manhattan, n_neighbors=7, weights=distance"
+Accuracy (CV),0.796 (±0.026)
+Precision (CV),0.813 (±0.069)
+Recall (CV),0.785 (±0.038)
+F1-score (CV),0.795 (±0.013)
+ROC AUC (CV),0.884 (±0.021)
+Accuracy (Test),0.800
+Precision (Test),0.794
+Recall (Test),0.818
+F1-score (Test),0.806
+ROC AUC (Test),0.865

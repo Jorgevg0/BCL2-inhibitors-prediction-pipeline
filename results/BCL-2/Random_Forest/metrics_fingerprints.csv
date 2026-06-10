@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"max_depth=20, max_features=log2, min_samples_leaf=1, min_samples_split=5, n_estimators=100"
+Accuracy (CV),0.848 (±0.040)
+Precision (CV),0.847 (±0.042)
+Recall (CV),0.855 (±0.041)
+F1-score (CV),0.851 (±0.038)
+ROC AUC (CV),0.929 (±0.026)
+Accuracy (Test),0.828
+Precision (Test),0.851
+Recall (Test),0.797
+F1-score (Test),0.824
+ROC AUC (Test),0.921

@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"activation=relu, alpha=0.01, hidden_layer_sizes=(64,), learning_rate_init=0.01, max_iter=500, solver=adam"
+Accuracy (CV),0.861 (±0.050)
+Precision (CV),0.840 (±0.075)
+Recall (CV),0.910 (±0.077)
+F1-score (CV),0.868 (±0.041)
+ROC AUC (CV),0.951 (±0.016)
+Accuracy (Test),0.942
+Precision (Test),0.956
+Recall (Test),0.929
+F1-score (Test),0.942
+ROC AUC (Test),0.981

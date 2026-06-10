@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"C=1, penalty=l2, solver=liblinear"
+Accuracy (CV),0.890 (±0.022)
+Precision (CV),0.877 (±0.034)
+Recall (CV),0.910 (±0.056)
+F1-score (CV),0.891 (±0.024)
+ROC AUC (CV),0.955 (±0.018)
+Accuracy (Test),0.921
+Precision (Test),0.915
+Recall (Test),0.929
+F1-score (Test),0.922
+ROC AUC (Test),0.981

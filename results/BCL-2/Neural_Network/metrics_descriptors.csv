@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"activation=tanh, alpha=0.001, hidden_layer_sizes=(64,), learning_rate_init=0.001, max_iter=500, solver=adam"
+Accuracy (CV),0.846 (±0.032)
+Precision (CV),0.845 (±0.042)
+Recall (CV),0.851 (±0.029)
+F1-score (CV),0.848 (±0.030)
+ROC AUC (CV),0.916 (±0.024)
+Accuracy (Test),0.867
+Precision (Test),0.854
+Recall (Test),0.886
+F1-score (Test),0.870
+ROC AUC (Test),0.925

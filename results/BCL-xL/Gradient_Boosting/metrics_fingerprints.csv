@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"learning_rate=0.2, max_depth=7, min_samples_split=2, n_estimators=100"
+Accuracy (CV),0.891 (±0.020)
+Precision (CV),0.878 (±0.029)
+Recall (CV),0.909 (±0.011)
+F1-score (CV),0.894 (±0.019)
+ROC AUC (CV),0.952 (±0.018)
+Accuracy (Test),0.921
+Precision (Test),0.928
+Recall (Test),0.914
+F1-score (Test),0.921
+ROC AUC (Test),0.984

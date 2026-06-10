@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,alpha=1
+Accuracy (CV),0.839 (±0.031)
+Precision (CV),0.874 (±0.043)
+Recall (CV),0.794 (±0.041)
+F1-score (CV),0.831 (±0.032)
+ROC AUC (CV),0.898 (±0.031)
+Accuracy (Test),0.827
+Precision (Test),0.897
+Recall (Test),0.743
+F1-score (Test),0.812
+ROC AUC (Test),0.931

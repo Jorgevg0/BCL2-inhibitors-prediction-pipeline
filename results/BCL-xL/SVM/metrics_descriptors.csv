@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"C=1.0, kernel=rbf"
+Accuracy (CV),0.875 (±0.025)
+Precision (CV),0.861 (±0.027)
+Recall (CV),0.895 (±0.034)
+F1-score (CV),0.877 (±0.025)
+ROC AUC (CV),0.941 (±0.021)
+Accuracy (Test),0.892
+Precision (Test),0.899
+Recall (Test),0.886
+F1-score (Test),0.892
+ROC AUC (Test),0.955

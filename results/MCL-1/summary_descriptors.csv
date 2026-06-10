@@ -1,0 +1,12 @@
+Metric,LR,KNN,GNB,GB,SVM,RF,ANN
+Best hyperparameters,"C=0.1, penalty=l2, solver=liblinear","metric=manhattan, n_neighbors=7, weights=distance",Default parameters,"learning_rate=0.2, max_depth=7, min_samples_split=5, n_estimators=100","C=1.0, kernel=rbf","max_depth=20, max_features=log2, min_samples_leaf=1, min_samples_split=2, n_estimators=200","activation=tanh, alpha=0.001, hidden_layer_sizes=(64,), learning_rate_init=0.001, max_iter=500, solver=adam"
+Accuracy (CV),0.749 (±0.035),0.796 (±0.026),0.663 (±0.035),0.805 (±0.018),0.815 (±0.029),0.817 (±0.020),0.792 (±0.041)
+Precision (CV),0.778 (±0.034),0.813 (±0.069),0.927 (±0.060),0.810 (±0.034),0.852 (±0.051),0.835 (±0.060),0.795 (±0.045)
+Recall (CV),0.705 (±0.071),0.785 (±0.038),0.360 (±0.072),0.804 (±0.041),0.770 (±0.042),0.804 (±0.057),0.793 (±0.082)
+F1-score (CV),0.737 (±0.046),0.795 (±0.013),0.514 (±0.069),0.806 (±0.018),0.807 (±0.027),0.815 (±0.018),0.791 (±0.048)
+ROC AUC (CV),0.851 (±0.033),0.884 (±0.021),0.809 (±0.021),0.880 (±0.019),0.877 (±0.023),0.893 (±0.014),0.879 (±0.024)
+Accuracy (Test),0.700,0.800,0.685,0.769,0.762,0.769,0.746
+Precision (Test),0.714,0.794,0.963,0.773,0.787,0.781,0.720
+Recall (Test),0.682,0.818,0.394,0.773,0.727,0.758,0.818
+F1-score (Test),0.698,0.806,0.559,0.773,0.756,0.769,0.766
+ROC AUC (Test),0.817,0.865,0.807,0.876,0.864,0.886,0.841

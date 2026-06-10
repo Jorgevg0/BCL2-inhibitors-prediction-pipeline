@@ -1,0 +1,12 @@
+Metric,Value
+Best hyperparameters,"metric=euclidean, n_neighbors=11, weights=distance"
+Accuracy (CV),0.844 (±0.023)
+Precision (CV),0.827 (±0.044)
+Recall (CV),0.880 (±0.058)
+F1-score (CV),0.850 (±0.022)
+ROC AUC (CV),0.924 (±0.022)
+Accuracy (Test),0.829
+Precision (Test),0.817
+Recall (Test),0.848
+F1-score (Test),0.832
+ROC AUC (Test),0.923
