@@ -165,9 +165,3 @@ Key observations:
 
 Bioactivity data was retrieved from [ChEMBL](https://www.ebi.ac.uk/chembl/) (BCL-2: CHEMBL4523, MCL-1: CHEMBL4171, BCL-xL: CHEMBL4822).
 
-## Academic context
-
-This project was developed as part of the Master's thesis for the **MU Bioinformática y Bioestadística** programme at the [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu), within the Drug Design and Structural Biology track.
-
-**Author**: Jorge Velázquez Gómez  
-**Supervisor**: Jorge Valencia Delgadillo
